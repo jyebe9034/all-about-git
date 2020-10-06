@@ -11,3 +11,8 @@ cls
 ```
 
 ### Branch Test
+* 로컬에서 git branch를 새로 생성한 후
+```
+git push origin newBranch
+```
+를 이용해 pull request를 생성해준다.
